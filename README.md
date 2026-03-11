@@ -1,3 +1,6 @@
+[![KCT Banner Image](./assets/bannerimg.png)]
+
+
 ## Hello there! 👋
 
 I am **Kadmiel T. Castillo**, a student from **Cebu Institute of Technology - University** taking *BSIT*.
