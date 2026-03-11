@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hello there! 👋
 
+I am **Kadmiel T. Castillo**, a student from **Cebu Institute of Technology - University** taking *BSIT*.
+Currently learning to code for a couple languages but I want to focus on Python (so I can make my own visual novel).
+Still getting the hang of github as a newbie and will be adding more soon... 
+
+*page under construction...*⚙⚙⚙
 <!--
 **BGTunafish/BGTunafish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
